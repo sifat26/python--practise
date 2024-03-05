@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8899d669-6448-4e06-8bef-67fad9546eea" name="Changes" comment="First program" />
+    <list default="true" id="8899d669-6448-4e06-8bef-67fad9546eea" name="Changes" comment="First program">
+      <change afterPath="$PROJECT_DIR$/python -practise/3rd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python -practise/Weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python -practise/whileloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python -practise/2nd.py" beforeDir="false" afterPath="$PROJECT_DIR$/python -practise/2nd.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.2nd.executor": "Run",
+    "Python.3rd.executor": "Run",
+    "Python.Weight.executor": "Run",
     "Python.first.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
