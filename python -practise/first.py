@@ -8,6 +8,8 @@ print(name)
 print(verify)
 # name=input("What is Your Name? ");
 # print("Hellow "+name);
-number=input("birth");
-n=int(number);
+number=input("birth")
+n=int(number)
 print(n)
+name=input("Enter Your Name")
+print("Hellow ",name)
