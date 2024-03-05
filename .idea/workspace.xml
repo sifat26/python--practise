@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8899d669-6448-4e06-8bef-67fad9546eea" name="Changes" comment="First program">
-      <change afterPath="$PROJECT_DIR$/python -practise/3rd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python -practise/Weight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python -practise/whileloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python -practise/array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python -practise/arrayfunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python -practise/for loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python -practise/2nd.py" beforeDir="false" afterPath="$PROJECT_DIR$/python -practise/2nd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,12 @@
     "Python.2nd.executor": "Run",
     "Python.3rd.executor": "Run",
     "Python.Weight.executor": "Run",
+    "Python.array.executor": "Run",
+    "Python.arrayfunc.executor": "Run",
     "Python.first.executor": "Run",
+    "Python.for loop.executor": "Run",
+    "Python.pattern.executor": "Run",
+    "Python.whileloop.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -54,7 +58,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
