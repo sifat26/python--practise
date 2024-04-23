@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8899d669-6448-4e06-8bef-67fad9546eea" name="Changes" comment="First program">
-      <change afterPath="$PROJECT_DIR$/python -practise/Tusar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python -practise/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/python -practise/fibonacci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +38,14 @@
   "keyToString": {
     "Python.2nd.executor": "Run",
     "Python.3rd.executor": "Run",
+    "Python.Count digit and letters.executor": "Run",
+    "Python.Reverse order.executor": "Run",
     "Python.Tusar.executor": "Run",
     "Python.Weight.executor": "Run",
     "Python.array.executor": "Run",
     "Python.arrayfunc.executor": "Run",
+    "Python.f to c.executor": "Run",
+    "Python.fibonacci.executor": "Run",
     "Python.first.executor": "Run",
     "Python.for loop.executor": "Run",
     "Python.pattern.executor": "Run",
@@ -57,7 +60,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
