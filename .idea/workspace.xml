@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8899d669-6448-4e06-8bef-67fad9546eea" name="Changes" comment="First program">
-      <change afterPath="$PROJECT_DIR$/python -practise/array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python -practise/arrayfunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python -practise/for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python -practise/Tusar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +39,7 @@
   "keyToString": {
     "Python.2nd.executor": "Run",
     "Python.3rd.executor": "Run",
+    "Python.Tusar.executor": "Run",
     "Python.Weight.executor": "Run",
     "Python.array.executor": "Run",
     "Python.arrayfunc.executor": "Run",
