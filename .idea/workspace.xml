@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8899d669-6448-4e06-8bef-67fad9546eea" name="Changes" comment="First program">
-      <change afterPath="$PROJECT_DIR$/python -practise/Middle Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8899d669-6448-4e06-8bef-67fad9546eea" name="Changes" comment="First program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,31 +32,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2nd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3rd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count digit and letters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Reverse order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tusar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Weight.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrayfunc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datetime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f to c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whileloop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sifat/PycharmProjects/First/python -practise/first.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2nd.executor": "Run",
+    "Python.3rd.executor": "Run",
+    "Python.Count digit and letters.executor": "Run",
+    "Python.Middle Number.executor": "Run",
+    "Python.Reverse order.executor": "Run",
+    "Python.Tusar.executor": "Run",
+    "Python.Weight.executor": "Run",
+    "Python.array.executor": "Run",
+    "Python.arrayfunc.executor": "Run",
+    "Python.datetime.executor": "Run",
+    "Python.f to c.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.for loop.executor": "Run",
+    "Python.pattern.executor": "Run",
+    "Python.pattern1.executor": "Run",
+    "Python.whileloop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sifat/PycharmProjects/First/python -practise/first.py",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
